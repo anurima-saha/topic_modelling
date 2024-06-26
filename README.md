@@ -1,2 +1,9 @@
-# topic_modelling
-Using unsupervised learning to group reddit text and identify major conspiracy theories using NLP, LDA, spacy, SVD, SBert embedding and HDSCAN.
+# IDENTIFYING AND GROUPING REDDIT THREADS INTO POPULAR CONSPIRACY THEORIES
+* Unsupervised Learning
+* NLP
+* LDA
+* spacy
+* LSA
+* SVD
+* SBert embedding
+* HDSCAN.
